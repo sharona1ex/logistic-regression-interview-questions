@@ -172,6 +172,7 @@ $$
 Resources to understand ROC: 
 1. https://www.youtube.com/watch?v=SHM_GgNI4fY - Ritwik (17 min.)
 2. https://www.youtube.com/watch?v=GApO575jTA0&t=130s - A video by Microsoft (4 min.)
+3. https://www.youtube.com/watch?v=4jRBRDbJemM - StatQuest (16 min.)
 
 ### Dealing With Multiclass Situations
 
