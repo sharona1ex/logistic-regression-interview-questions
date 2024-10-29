@@ -169,6 +169,10 @@ $$
 - **Receiver Operating Characteristic (ROC)** Curve: It measures the model's ability to differentiate between classes. The area under the curve ($AUC$) is a common performance metric.
 - **Precision-Recall** Curve: Especially useful when there is class imbalance.
 
+Resources to understand ROC: 
+1. https://www.youtube.com/watch?v=SHM_GgNI4fY - Ritwik (17 min.)
+2. https://www.youtube.com/watch?v=GApO575jTA0&t=130s - A video by Microsoft (4 min.)
+
 ### Dealing With Multiclass Situations
 
 While **logistic regression** inherently pertains to binary classification, **strategies** can be employed to handle **multiclass problems**:
