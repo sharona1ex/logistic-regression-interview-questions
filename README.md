@@ -181,6 +181,8 @@ While **logistic regression** inherently pertains to binary classification, **st
 - **One-vs-Rest (OvR)**, which trains a dedicated model for each class. During prediction, the class with the highest probability output from any classifier is picked.
 - **One-vs-One (OvO)**, which constructs models for all possible class pairs, leading to greater computational complexity. The choice is made based on a "voting" mechanism.
 
+Multi-class classification video - https://www.youtube.com/watch?v=Jeh531fPhj8&t=814s (13 mins.)
+
 Modern software tools, however, often implement these strategies automatically without explicit guidance from the user, making them more straightforward to use.
 <br>
 
