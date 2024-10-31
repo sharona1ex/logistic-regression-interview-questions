@@ -314,7 +314,7 @@ The probabilities $\sigma(z)$ are then used to make binary classification decisi
 
 1. **Binary or Ordinal Outcomes**: Logistic Regression is ideal for predicting binary outcomes, but when used with multiple categories, the model assumes that these categories are ordered.
 
-2. **Independence of Observations**: Each data point should be independent of others. 
+2. **Independence of Observations**: Each data point should be independent of others. Independence of observations refers to the assumption that the data points collected in a study or experiment are not influenced by each other. If observations are not independednt then the estimated coefficients will be biased leading to incorrect conclusions between the predictors (aka independent variables) and binary outcome. 
 
 3. **Absence of Multicollinearity**: There should be minimal correlation among independent variables.  The presence of high multicollinearity can make interpretation of the model difficult.
 
