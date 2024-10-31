@@ -449,6 +449,8 @@ $$
   
 5. **Obtain Standard Errors**: Their ratio can provide insights into possible multicollinearity issues.
 
+   MLE in Logistic Regression: https://www.youtube.com/watch?v=BfKanl1aSG0&t=324s
+
 ### MLE and Model Accuracy
 
 - **Confusion Matrix**: MLE could overfit the data, becoming overly sensitive to the training set.
