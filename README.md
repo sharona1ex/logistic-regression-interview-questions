@@ -497,6 +497,8 @@ Yes, **multiclass logistic regression**, also known as **softmax regression**, u
   - **Activation Function**: Applies the softmax function to assign probabilities to each class, ensuring the sum of probabilities across all classes is 1.
   - **Decision Boundary**: Does not establish a sharp boundary but instead provides probabilities for each class.
 <br>
+![image](https://github.com/user-attachments/assets/88ba3f11-d94c-4f2e-9619-47a0fb32185d)
+
 
 ## 13. Discuss the consequences of _multicollinearity_ in _logistic regression_.
 
@@ -531,6 +533,8 @@ Yes, **multiclass logistic regression**, also known as **softmax regression**, u
 
 1. **Correlation Matrix**: Identify pairs of predictors with high correlation.
 2. **VIF (Variance Inflation Factor)**: VIF quantifies the severity of multicollinearity in the regression model. Generally, VIF values above 5 or 10 are considered as indicating multicollinearity.
+<br>
+![image](https://github.com/user-attachments/assets/5e8c5700-f10e-49ac-abf9-d048b8136095)
 
 #### Dealing with Multicollinearity
 
