@@ -591,7 +591,7 @@ To evaluate the **goodness-of-fit** in a **logistic regression** model, a blend 
 
 1. **ROC Curve and AUC**: ROC curves display the trade-off between sensitivity and specificity. The area under the curve (AUC) is a single scalar value that represents the model's ability to distinguish between positive and negative classes.
 
-2. **Lift Charts**: These visualizations help assess how well the model is performing compared to a random sample.
+2. **Lift Charts**: These visualizations help assess how well the model is performing compared to a random sample. (https://www.youtube.com/watch?v=meZ5qhr3nV0&t=359s)
 
 3. **Calibration Plot**: This plot compares the estimated probabilities from the model against the actual outcomes.
 
