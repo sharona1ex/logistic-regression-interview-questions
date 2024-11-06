@@ -597,9 +597,9 @@ To evaluate the **goodness-of-fit** in a **logistic regression** model, a blend 
 
 ### Statistical Methods
 
-1. **Hosmer-Lemeshow Test**: This statistical test assesses if the observed event rates match expected event rates in groups defined by deciles of risk.
+1. **Hosmer-Lemeshow Test**: This statistical test assesses if the observed event rates match expected event rates in groups defined by deciles of risk. (https://www.youtube.com/watch?v=_s3XNX3TlZM , The null hypothesis is that the model fits the data. If the p > 0.05 then we can conclude that model fits the data.)
 
-2. **Pseudo R-Squared**: While the R-squared commonly used in linear regression isn't directly applicable to logistic models, several alternatives exist, like the Pseudo R-Squared, to evaluate model fit.
+2. **Pseudo R-Squared**: While the R-squared commonly used in linear regression isn't directly applicable to logistic models, several alternatives exist, like the Pseudo R-Squared, to evaluate model fit. (https://www.youtube.com/watch?v=EEwuQmXbFQY)
 
 3. **Information Criteria**: **AIC** (Akaike Information Criterion) and **BIC** (Bayesian Information Criterion) are measures of the goodness of fit for a statistical model.
 
