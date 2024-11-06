@@ -593,7 +593,7 @@ To evaluate the **goodness-of-fit** in a **logistic regression** model, a blend 
 
 2. **Lift Charts**: These visualizations help assess how well the model is performing compared to a random sample. (https://www.youtube.com/watch?v=meZ5qhr3nV0&t=359s) (More detailed video: https://www.youtube.com/watch?v=1dYOcDaDJLY&t=795s)
 
-3. **Calibration Plot**: This plot compares the estimated probabilities from the model against the actual outcomes.
+3. **Calibration Plot**: This plot compares the estimated probabilities from the model against the actual outcomes. (https://www.youtube.com/watch?v=AunotauS5yI&t=7s)
 
 ### Statistical Methods
 
